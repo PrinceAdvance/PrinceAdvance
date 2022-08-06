@@ -24,5 +24,4 @@ Programming Languages
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 Contact Me On
-
-![Twitter](https://https://twitter.com/Its_Advancedom)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)(https://twitter.com/Its_Advancedom)]
