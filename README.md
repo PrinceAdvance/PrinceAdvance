@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like what I do
 
 
-Programming tools
+Programming languages and skills
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
