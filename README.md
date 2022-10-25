@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I started my tech journey in 2020 by learning python and I've come to develop a passion for data analysis. So I come across as a python dev and a cunningly fashioned data analyst
+I started my tech journey in 2020 by learning python and I've come to develop a passion for data analytics. I'm still learning,hey feel free to check my work out(pun intended lol)
 
 * 🌍  I'm based in Accra
 * ✉️  You can contact me at [princeadvanceagbenu@gmail.com](mailto:princeadvanceagbenu@gmail.com)
